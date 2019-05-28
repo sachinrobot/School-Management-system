@@ -49,7 +49,7 @@ int main()
 
 	   //Level 1-Display process 
 		cout << "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
-		cout << "\n\n\t\t\tSCHOOL MANAGEMENT PROGRAM\n\n";
+		cout << "\n\n\t\t\tSTUDENT TEACHER MANAGEMENT PROGRAM\n\n";
 		cout << "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\";
 		cout << "\n\n\t\t\tMAIN SCREEN\n\n";
 		cout << "Enter your choice: " << endl;
