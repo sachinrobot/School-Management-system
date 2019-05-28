@@ -1,1 +1,1 @@
-# School-Management-system
+# Student teacher -Management-system
